@@ -28,6 +28,16 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <img src="https://komarev.com/ghpvc/?username=zeeshanravian1&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="Profile View Counter" />
 </p>
 
+<br>
+
+<!--Wakatime-Stats-->
+
+<div align="center">
+  <a href="https://wakatime.com/@018dd1b2-9616-44ce-9ff5-70a08393b040"><img src="https://wakatime.com/badge/user/018dd1b2-9616-44ce-9ff5-70a08393b040.svg" alt="Total time coded since Feb 22 2024" /></a>
+</div>
+
+<br>
+
 <!--GitHub-Stats-->
 
 <div align="center">
@@ -60,14 +70,6 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <h1> <strong> My LeetCode Stats 📊 </strong> </h1>
 
   <img src="https://leetcard.jacoblin.cool/zeeshanravian1/?ext=heatmap?theme=nord" align="middle" alt="Zeeshan's LeetCode Stats" />
-</div>
-
-<br>
-
-<!--Wakatime-Stats-->
-
-<div align="center">
-  <a href="https://wakatime.com/@018dd1b2-9616-44ce-9ff5-70a08393b040"><img src="https://wakatime.com/badge/user/018dd1b2-9616-44ce-9ff5-70a08393b040.svg" alt="Total time coded since Feb 22 2024" /></a>
 </div>
 
 <br>
