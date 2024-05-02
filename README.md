@@ -64,6 +64,14 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
 
 <br>
 
+<!--Wakatime-Stats-->
+
+<div align="center">
+  <a href="https://wakatime.com/@018dd1b2-9616-44ce-9ff5-70a08393b040"><img src="https://wakatime.com/badge/user/018dd1b2-9616-44ce-9ff5-70a08393b040.svg" alt="Total time coded since Feb 22 2024" /></a>
+</div>
+
+<br>
+
 <!--Skills-->
 
 <div align="center">
@@ -91,6 +99,14 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <!--Django-Rest-Framework-->
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
+  </a>&nbsp;&nbsp;
+  <!--Pandas-->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>&nbsp;&nbsp;
+  <!--NumPy-->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   </a>&nbsp;&nbsp;
   <!--PostgreSQL-->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -136,6 +152,10 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
   </a>&nbsp;&nbsp;
+  <!--Jenkins-->
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  </a>&nbsp;&nbsp;
   <!--Apache-->
   <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
@@ -155,6 +175,14 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <!--Bitbucket-->
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  </a>&nbsp;&nbsp;
+  <!--Jira-->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  </a>&nbsp;&nbsp;
+  <!--Trello-->
+  <a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
   </a>&nbsp;&nbsp;
   <!--VS Code-->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -176,9 +204,17 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   </a>&nbsp;&nbsp;
+  <!--Scrapy-->
+  <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy" />
+  </a>&nbsp;&nbsp;
   <!--RabbitMQ-->
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  </a>&nbsp;&nbsp;
+  <!--Apache Kafka-->
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   </a>&nbsp;&nbsp;
   <!--Celery-->
   <a href="https://docs.celeryproject.org/en/stable/" target="_blank" rel="noreferrer">
@@ -187,6 +223,14 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <!--Postman-->
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>&nbsp;&nbsp;
+  <!--Slack-->
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>&nbsp;&nbsp;
+  <!--Microsoft Teams-->
+  <a href="https://www.microsoft.com/en-in/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
   </a>&nbsp;&nbsp;
 </div>
 
