@@ -70,6 +70,7 @@ I'm always up for a challenge. 🚀 Let's work together and create some awesome 
   <h1> <strong> My LeetCode Stats 📊 </strong> </h1>
 
   ![ Stats](https://leetcode-status.vercel.app/api/card/zeeshanravian1?theme=dark&hide_title=true&custom_title=)
+  
   ![ Stats](https://leetcode-status.vercel.app/api/graph/zeeshanravian1?theme=dark&hide_title=true&custom_title=)
 </div>
 
